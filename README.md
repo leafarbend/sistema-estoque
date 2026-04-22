@@ -14,16 +14,18 @@ Projeto desktop feito com Tkinter para gerenciamento de produtos.
 - JSON
 - OpenPyXL
 
-## Como rodar
-pip install -r requirements.txt
-python main.py
-
 ## Download
 
 Baixe o executável:
 - sistema-estoque.exe
 
-## Como usar
-- Abra o .exe
-- Adicione produtos
-- Gere planilha automaticamente
+- ## 🚀 Como usar
+
+### Opção 1 (mais fácil)
+1. Baixe o arquivo sistema-estoque.exe
+2. Execute o arquivo
+3. Comece a usar
+
+### Opção 2 (código)
+pip install -r requirements.txt
+python main.py
