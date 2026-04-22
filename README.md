@@ -23,8 +23,9 @@ Baixe o executável:
 
 ### Opção 1 (mais fácil)
 1. Baixe o arquivo sistema-estoque.exe
-2. Execute o arquivo
-3. Comece a usar
+2. Entre na pasta Dist
+3. Execute o arquivo
+4. Comece a usar
 
 ### Opção 2 (código)
 pip install -r requirements.txt
