@@ -17,3 +17,13 @@ Projeto desktop feito com Tkinter para gerenciamento de produtos.
 ## Como rodar
 pip install -r requirements.txt
 python main.py
+
+## Download
+
+Baixe o executável:
+- sistema-estoque.exe
+
+## Como usar
+- Abra o .exe
+- Adicione produtos
+- Gere planilha automaticamente
