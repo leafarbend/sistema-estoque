@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "manga",
+        "preco": 9.99,
+        "categoria": "fruta",
+        "estoque": 500,
+        "fornecedor": "merca"
+    },
+    {
+        "nome": "uva",
+        "preco": 13.99,
+        "categoria": "fruta",
+        "estoque": 500,
+        "fornecedor": "merca dois"
+    },
+    {
+        "nome": "caqui",
+        "preco": 19.99,
+        "categoria": "fruta",
+        "estoque": 377,
+        "fornecedor": "unc mer"
+    },
+    {
+        "nome": "laranja",
+        "preco": 3.99,
+        "categoria": "fruta",
+        "estoque": 467,
+        "fornecedor": "unag"
+    }
+]
